@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212082514288",
+    "project_id": "true-connect-a6081",
+    "storage_bucket": "true-connect-a6081.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212082514288:android:64b739e9a6c61c7702d7b5",
+        "android_client_info": {
+          "package_name": "com.example.true_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc9O0-Qw3kdcAT7yIVy6gHlXo3mVEBxTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
