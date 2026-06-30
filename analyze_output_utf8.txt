@@ -1,0 +1,23 @@
+﻿Analyzing true_connect...                                       
+
+   info - Don't invoke 'print' in production code - lib\core\services\contact_service.dart:18:7 - avoid_print
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\chat\views\chat_view.dart:96:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\contacts\views\user_details_page.dart:115:61 - deprecated_member_use
+
+flutter : 3 issues 
+found. (ran in 1.5s)
+At line:1 char:1
++ flutter analyze > 
+analyze_output.txt 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (3 issues foun   
+ d. (ran in 1.5s):S    
+tring) [], RemoteE    
+xception
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
